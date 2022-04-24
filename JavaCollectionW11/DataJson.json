@@ -1,0 +1,35 @@
+[{
+"no" : "1",
+"id" : "0197364",
+"studentName" : "Erika Fransisca",
+"gender" : "Female",
+"major" : "Civil Engineering"
+},
+{
+"no" : "2",
+"id" : "0367824",
+"studentName" : "Steven Wijaya",
+"gender" : "Male",
+"major" : "Law Major"
+},
+{
+"no" : "3",
+"id" : "0625973",
+"studentName" : "Valorie Thomas",
+"gender" : "Female",
+"major" : "Accounting Major"
+},
+{
+"no" : "4",
+"id" : "0471963",
+"studentName" : "Ramones Zedia",
+"gender" : "Male",
+"major" : "Informatics Engineering"
+},
+{
+"no" : "5",
+"id" : "0837482",
+"studentName" : "Xaviere Royan",
+"gender" : "Male",
+"major" : "Mechanical Engineering"
+}]
